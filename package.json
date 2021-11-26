@@ -1,0 +1,23 @@
+{
+  "name": "restapi-setup",
+  "version": "1.0.0",
+  "description": "rest api setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somushanker44/restapi-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somushanker44/restapi-setup/issues"
+  },
+  "homepage": "https://github.com/somushanker44/restapi-setup#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
