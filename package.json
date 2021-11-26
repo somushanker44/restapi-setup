@@ -6,10 +6,6 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/somushanker44/restapi-setup.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
